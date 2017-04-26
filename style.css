@@ -1,0 +1,21 @@
+body { 
+    background-color: #CAC0BD ; 
+} 
+
+h1 { 
+    color: #900C3F ; 
+} 
+
+.arrondi { 
+    background-color: #ffffff ; 
+    border : 2px solid black; 
+    border-radius : 10px 10px 10px 10px; 
+}
+
+.rond {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-image: url(plage-paradisiaque-maldives.jpg);
+    background-size: cover;
+}
